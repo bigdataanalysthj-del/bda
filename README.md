@@ -32,14 +32,13 @@ print('abc')
 
 ## 참고 사이트
 
+튜토
+https://30days-tmp.streamlit.app/?ref=blog.streamlit.io
+
 탬플릿
 https://streamlit.io/
-```
-```
 https://jamstack.org/generators/
 
 시각화 디자인
 https://pudding.cool/2025/07/kids-books/
-```
-```
 http://krisztinaszucs.com/blog/20220829_gif/index.html
