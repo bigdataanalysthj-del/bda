@@ -28,3 +28,14 @@ print('abc')
 ## 기타
 
 자세한 내용은 각 파일의 주석을 참고하세요.
+
+
+## 참고 사이트
+
+탬플릿
+https://streamlit.io/
+https://jamstack.org/generators/
+
+시각화 디자인
+https://pudding.cool/2025/07/kids-books/
+http://krisztinaszucs.com/blog/20220829_gif/index.html
